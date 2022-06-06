@@ -1,0 +1,53 @@
+h1 {
+    height: 45px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+}
+h2 {
+    height: 25px;
+    background-color: red;
+    margin-right: 610px;
+    border-style: solid;
+    font-size: large;
+
+}
+img {
+    height: 209px;
+    width: 350px;
+    border-style: solid;
+}
+.car-pic {
+    height: 209px;
+    width: 350px
+}
+h5 {
+    color: red;
+    text-decoration: underline;
+}
+.unbroken-pic {
+    height: 100px;
+    width: 100px;
+    box-shadow: 3px 7px;
+}
+.top-gun-pic{
+    height: 100px;
+    width: 100px;
+    box-shadow: 3px 7px;
+}
+.karate-kid-pic{
+    height: 100px;
+    width: 100px;
+    box-shadow: 3px 7px;
+}
+.crawdads-pic{
+    height: 100px;
+    width: 100px;
+    box-shadow: 3px 7px;
+}
+p {
+    color: red;
+    text-decoration: underline;
+    font: bold;
+}
